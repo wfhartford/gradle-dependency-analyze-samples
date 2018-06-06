@@ -1,0 +1,3 @@
+include 'sub'
+
+rootProject.name = 'gradle-dependency-analyze-sample-multi'
